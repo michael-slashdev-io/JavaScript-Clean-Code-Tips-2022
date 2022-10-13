@@ -92,9 +92,12 @@ if (x !== “” && x !== null && x !== undefined) { ... }
 
 //with-shorthand
 if ( !!x ) { ... }
-Use The Spread Extension Operator/
-The spread extension operator (…) is another feature introduced with ES6. It is capable of expanding the literals like arrays into individual elements with a single line of code. This is really useful when we need to put an array or object into a new array or object or to combine multiple parameters in the array.
 ```
+
+## Use The Spread Extension Operator/
+
+The spread extension operator (…) is another feature introduced with ES6. It is capable of expanding the literals like arrays into individual elements with a single line of code. This is really useful when we need to put an array or object into a new array or object or to combine multiple parameters in the array.
+
 
 The below code shows how to combine 2 arrays using the spread operator. As you can see, it makes the code clean and easy to understand since we don’t need to use loops or conditions.
 
