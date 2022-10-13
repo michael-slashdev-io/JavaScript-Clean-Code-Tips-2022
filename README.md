@@ -1,5 +1,7 @@
 # JavaScript-Clean-Code-Tips-2022
 
+See the original article [here](https://slashdev.io/insights/developers/javascript-clean-code-tips-2022)
+
 There are several principles that can help engineers write more clean and efficient JavaScript code. In this article I highlight the use of multiple parameters, template literals, avoiding callbacks, using shorthand, the spread extension operator, arrow functions, and object destructuring.
 
 ## Use Multiple Parameters
